@@ -148,5 +148,6 @@ The project demonstrates frontend development, responsive UI design, production 
 GitHub: [bhupeshpatil230306-sudo](https://github.com/bhupeshpatil230306-sudo)
 
 ---
+This project was created for the academic purpose mini-project of Cloud Computing the workable frontend shows the same. 
 
 ⭐ If you like this project, consider giving the repository a star!
